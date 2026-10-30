@@ -1,0 +1,6 @@
+{
+  "name": "CertiChain – Academic Certificate Verification System",
+  "description": "Blockchain-based academic certificate issuance, cryptographic SHA-256 anchoring, QR code verification, and tamper detection with Solidity smart contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
